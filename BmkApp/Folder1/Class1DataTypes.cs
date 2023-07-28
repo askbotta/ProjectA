@@ -10,7 +10,16 @@ namespace BmkApp.Folder1
     {
         static void Main()
         {
+            FirstExample();
             Console.WriteLine("This is my first line of code");
+        }
+
+        static void FirstExample() 
+        {
+        
+            int x = 1;
+            int y = 2;
+            Console.WriteLine(x + y);
         }
     }
 }
