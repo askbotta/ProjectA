@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -6,14 +6,5 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="Folder1\" />
-    <Folder Include="Folder2\" />
-    <Folder Include="Folder3\" />
-    <Folder Include="Folder4\" />
-    <Folder Include="Folder5\" />
-    <Folder Include="Folder6\" />
-  </ItemGroup>
 
 </Project>

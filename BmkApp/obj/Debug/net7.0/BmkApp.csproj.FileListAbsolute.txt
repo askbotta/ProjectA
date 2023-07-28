@@ -1,0 +1,15 @@
+C:\gitprojects\Repos\ProjectA\BmkApp\bin\Debug\net7.0\BmkApp.exe
+C:\gitprojects\Repos\ProjectA\BmkApp\bin\Debug\net7.0\BmkApp.deps.json
+C:\gitprojects\Repos\ProjectA\BmkApp\bin\Debug\net7.0\BmkApp.runtimeconfig.json
+C:\gitprojects\Repos\ProjectA\BmkApp\bin\Debug\net7.0\BmkApp.dll
+C:\gitprojects\Repos\ProjectA\BmkApp\bin\Debug\net7.0\BmkApp.pdb
+C:\gitprojects\Repos\ProjectA\BmkApp\obj\Debug\net7.0\BmkApp.csproj.AssemblyReference.cache
+C:\gitprojects\Repos\ProjectA\BmkApp\obj\Debug\net7.0\BmkApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitprojects\Repos\ProjectA\BmkApp\obj\Debug\net7.0\BmkApp.AssemblyInfoInputs.cache
+C:\gitprojects\Repos\ProjectA\BmkApp\obj\Debug\net7.0\BmkApp.AssemblyInfo.cs
+C:\gitprojects\Repos\ProjectA\BmkApp\obj\Debug\net7.0\BmkApp.csproj.CoreCompileInputs.cache
+C:\gitprojects\Repos\ProjectA\BmkApp\obj\Debug\net7.0\BmkApp.dll
+C:\gitprojects\Repos\ProjectA\BmkApp\obj\Debug\net7.0\refint\BmkApp.dll
+C:\gitprojects\Repos\ProjectA\BmkApp\obj\Debug\net7.0\BmkApp.pdb
+C:\gitprojects\Repos\ProjectA\BmkApp\obj\Debug\net7.0\BmkApp.genruntimeconfig.cache
+C:\gitprojects\Repos\ProjectA\BmkApp\obj\Debug\net7.0\ref\BmkApp.dll

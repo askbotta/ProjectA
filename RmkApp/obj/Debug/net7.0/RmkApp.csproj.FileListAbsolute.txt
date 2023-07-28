@@ -1,0 +1,15 @@
+C:\gitprojects\Repos\ProjectA\RmkApp\bin\Debug\net7.0\RmkApp.exe
+C:\gitprojects\Repos\ProjectA\RmkApp\bin\Debug\net7.0\RmkApp.deps.json
+C:\gitprojects\Repos\ProjectA\RmkApp\bin\Debug\net7.0\RmkApp.runtimeconfig.json
+C:\gitprojects\Repos\ProjectA\RmkApp\bin\Debug\net7.0\RmkApp.dll
+C:\gitprojects\Repos\ProjectA\RmkApp\bin\Debug\net7.0\RmkApp.pdb
+C:\gitprojects\Repos\ProjectA\RmkApp\obj\Debug\net7.0\RmkApp.csproj.AssemblyReference.cache
+C:\gitprojects\Repos\ProjectA\RmkApp\obj\Debug\net7.0\RmkApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitprojects\Repos\ProjectA\RmkApp\obj\Debug\net7.0\RmkApp.AssemblyInfoInputs.cache
+C:\gitprojects\Repos\ProjectA\RmkApp\obj\Debug\net7.0\RmkApp.AssemblyInfo.cs
+C:\gitprojects\Repos\ProjectA\RmkApp\obj\Debug\net7.0\RmkApp.csproj.CoreCompileInputs.cache
+C:\gitprojects\Repos\ProjectA\RmkApp\obj\Debug\net7.0\RmkApp.dll
+C:\gitprojects\Repos\ProjectA\RmkApp\obj\Debug\net7.0\refint\RmkApp.dll
+C:\gitprojects\Repos\ProjectA\RmkApp\obj\Debug\net7.0\RmkApp.pdb
+C:\gitprojects\Repos\ProjectA\RmkApp\obj\Debug\net7.0\RmkApp.genruntimeconfig.cache
+C:\gitprojects\Repos\ProjectA\RmkApp\obj\Debug\net7.0\ref\RmkApp.dll

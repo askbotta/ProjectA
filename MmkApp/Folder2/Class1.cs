@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MmkApp.Folder2
 {
-    internal class Class2
+    internal class Class1
     {
     }
 }

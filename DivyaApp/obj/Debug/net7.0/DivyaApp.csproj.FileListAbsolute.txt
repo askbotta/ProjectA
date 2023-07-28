@@ -1,0 +1,15 @@
+C:\gitprojects\Repos\ProjectA\DivyaApp\bin\Debug\net7.0\DivyaApp.exe
+C:\gitprojects\Repos\ProjectA\DivyaApp\bin\Debug\net7.0\DivyaApp.deps.json
+C:\gitprojects\Repos\ProjectA\DivyaApp\bin\Debug\net7.0\DivyaApp.runtimeconfig.json
+C:\gitprojects\Repos\ProjectA\DivyaApp\bin\Debug\net7.0\DivyaApp.dll
+C:\gitprojects\Repos\ProjectA\DivyaApp\bin\Debug\net7.0\DivyaApp.pdb
+C:\gitprojects\Repos\ProjectA\DivyaApp\obj\Debug\net7.0\DivyaApp.csproj.AssemblyReference.cache
+C:\gitprojects\Repos\ProjectA\DivyaApp\obj\Debug\net7.0\DivyaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitprojects\Repos\ProjectA\DivyaApp\obj\Debug\net7.0\DivyaApp.AssemblyInfoInputs.cache
+C:\gitprojects\Repos\ProjectA\DivyaApp\obj\Debug\net7.0\DivyaApp.AssemblyInfo.cs
+C:\gitprojects\Repos\ProjectA\DivyaApp\obj\Debug\net7.0\DivyaApp.csproj.CoreCompileInputs.cache
+C:\gitprojects\Repos\ProjectA\DivyaApp\obj\Debug\net7.0\DivyaApp.dll
+C:\gitprojects\Repos\ProjectA\DivyaApp\obj\Debug\net7.0\refint\DivyaApp.dll
+C:\gitprojects\Repos\ProjectA\DivyaApp\obj\Debug\net7.0\DivyaApp.pdb
+C:\gitprojects\Repos\ProjectA\DivyaApp\obj\Debug\net7.0\DivyaApp.genruntimeconfig.cache
+C:\gitprojects\Repos\ProjectA\DivyaApp\obj\Debug\net7.0\ref\DivyaApp.dll
