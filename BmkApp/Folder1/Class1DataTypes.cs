@@ -8,5 +8,9 @@ namespace BmkApp.Folder1
 {
     internal class Class1DataTypes
     {
+        static void Main()
+        {
+            Console.WriteLine("This is my first line of code");
+        }
     }
 }
