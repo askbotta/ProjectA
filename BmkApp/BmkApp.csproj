@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     
-	  <StartupObject>BmkApp.Folder2.Class2Method2</StartupObject>
+	  <StartupObject>BmkApp.Folder2.Class5StaticConstructors</StartupObject>
     
 	  <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
   </PropertyGroup>
